@@ -14,4 +14,5 @@ n/a
 
 # Resources
 https://www.youtube.com/watch?v=fP1RuEDlJzs
-
+https://stackoverflow.com/questions/57047994/how-can-i-change-my-font-weight-to-medium-in-swiftui
+https://stackoverflow.com/questions/24795035/swift-extra-argument-in-call
